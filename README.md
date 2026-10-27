@@ -1,4 +1,4 @@
-﻿# Jericho Riga
+# Jericho Riga
 
 Full Stack Developer · Pasig, Philippines
 
@@ -7,8 +7,8 @@ Full Stack Developer · Pasig, Philippines
 
 ## Selected projects
 
-- **[LEAPRS](https://github.com/echo-riga/LEAPRSv2)** — University training requests, approvals, budgets, and reporting. My capstone project, built as the team's developer.
-- **[Loxon](https://new.loxon.com.ph)** — Company website and admin platform with staff-managed content and an AI customer service chatbot.
+- **[LEAPRS](https://echoriga.me/projects?project=leaprs)** — University training requests, approvals, budgets, and reporting. My capstone project, built as the team's developer.
+- **[Loxon](https://echoriga.me/projects?project=loxon)** — Company website and admin platform with staff-managed content and an AI customer service chatbot.
 
 [More projects →](https://echoriga.me/projects)
 
